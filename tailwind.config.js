@@ -1,0 +1,1 @@
+module.exports = { content: ["./src/**/*.{js,ts,jsx,tsx}"], theme: { extend: { colors: { zinc: { DEFAULT: '#3C3F41' }, indigo: { DEFAULT: '#4F46E5' } } } }, plugins: [], }
